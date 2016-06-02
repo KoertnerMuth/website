@@ -38,6 +38,7 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
+PAGE_ORDER_BY = 'order'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

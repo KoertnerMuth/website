@@ -4,6 +4,7 @@ LOCKBASE auf der SECURITY in Essen 2016
 :date: 2016-05-23 15:20
 :slug: security-2016
 :summary: Wenn Sie dieses Jahr die Security besuchen, dann würden wir uns freuen, Sie dort zu begrüßen. Wir stellen vom 27.-30. September 2016 in Essen aus. Sie finden unseren Messestand in *Halle 12, Stand 12B01*.
+:type: news
 
 Wenn Sie dieses Jahr die Security besuchen, dann würden wir uns freuen, Sie dort zu begrüßen. Wir stellen vom 27.-30. September 2016 in Essen aus.
 

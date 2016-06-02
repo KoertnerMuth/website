@@ -1,8 +1,8 @@
-Contact
+Kontakt
 #######
 
 :slug: contact
 :order: 6
-:lang: en
+:lang: de
 
-Hello World!
+Hallo Welt!
